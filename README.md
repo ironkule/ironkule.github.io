@@ -7,8 +7,3 @@
 
 [数学笔记-01_极限-v1.1](https://ironkule.github.io/数学笔记-01_极限-v1.1.html)
 
-$$
-
-a
-
-$$
