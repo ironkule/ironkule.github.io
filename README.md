@@ -18,6 +18,8 @@
 
 [数学错题-03_一元函数积分-v1.0](https://ironkule.github.io/数学错题/数学错题-03_一元函数积分-v1.0.html)
 
+[数学错题-04_微分中值定理-v1.0](https://ironkule.github.io/数学错题/数学错题-04_微分中值定理-v1.0.html)
+
 [常用凑微分法](https://ironkule.github.io/常用凑微分法.html)
 
 [常用导数](https://ironkule.github.io/常用导数.html)
