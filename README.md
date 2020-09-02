@@ -16,7 +16,7 @@
 
 [数学笔记-04_微分中值定理-v1.0](https://ironkule.github.io/数学笔记/数学笔记-04_微分中值定理-v1.0.html)
 
-[数学笔记-05_泰勒公式-v1.0](https://ironkule.github.io/数学笔记/数学笔记-05_泰勒公式-v1.0.html)
+[数学笔记-05_泰勒公式-v1.1](https://ironkule.github.io/数学笔记/数学笔记-05_泰勒公式-v1.1.html)
 
 ## 错题
 
