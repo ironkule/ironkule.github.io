@@ -28,6 +28,8 @@
 
 [数学错题-04_微分中值定理-v1.0](https://ironkule.github.io/数学错题/数学错题-04_微分中值定理-v1.0.html)
 
+[数学错题-05_泰勒公式-v1.0](https://ironkule.github.io/数学错题/数学错题-05_泰勒公式-v1.0.html)
+
 ## 技巧表
 
 [常用凑微分法](https://ironkule.github.io/常用凑微分法.html)
