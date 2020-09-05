@@ -35,3 +35,7 @@
 [常用凑微分法](https://ironkule.github.io/常用凑微分法.html)
 
 [常用导数](https://ironkule.github.io/常用导数.html)
+
+[常用泰勒公式（拉格朗日余项）](https://ironkule.github.io/常用泰勒公式（拉格朗日余项）.html)
+
+[上述常用打包](https://ironkule.github.io/常用公式.zip)
