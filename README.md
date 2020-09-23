@@ -20,6 +20,8 @@
 
 [数学笔记-06_常微分方程-v1.0](https://ironkule.github.io/数学笔记/数学笔记-06_常微分方程-v1.0.html)
 
+[数学错题-07_向量代数和空间解析几何](https://ironkule.github.io/数学笔记/数学错题-07_向量代数和空间解析几何.html)
+
 ## 错题
 
 [数学错题-01_极限-v1.0](https://ironkule.github.io/数学错题/数学错题-01_极限-v1.0.html)
@@ -33,6 +35,8 @@
 [数学错题-05_泰勒公式-v1.0](https://ironkule.github.io/数学错题/数学错题-05_泰勒公式-v1.0.html)
 
 [数学错题-06_常微分方程-v1.0](https://ironkule.github.io/数学错题/数学错题-06_常微分方程-v1.0.html)
+
+[数学错题-07_向量代数和空间解析几何](https://ironkule.github.io/数学错题/数学错题-07_向量代数和空间解析几何.html)
 
 ## 技巧表
 
