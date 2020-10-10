@@ -40,6 +40,8 @@
 
 [数学错题-07_向量代数和空间解析几何](https://ironkule.github.io/数学错题/数学错题-07_向量代数和空间解析几何.html)
 
+[数学错题-08_多元函数微分学](https://ironkule.github.io/数学错题/数学错题-08_多元函数微分学.html)
+
 ## 技巧表
 
 [常用凑微分法](https://ironkule.github.io/常用凑微分法.html)
