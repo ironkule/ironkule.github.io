@@ -26,6 +26,8 @@
 
 [数学笔记-09_多元函数积分](https://ironkule.github.io/数学笔记/数学笔记-09_多元函数积分.html)
 
+[数学笔记-10_多元积分基本公式](https://ironkule.github.io/数学笔记/数学笔记-10_多元积分基本公式.html)
+
 ## 错题
 
 [数学错题-01_极限-v1.0](https://ironkule.github.io/数学错题/数学错题-01_极限-v1.0.html)
@@ -45,6 +47,8 @@
 [数学错题-08_多元函数微分学](https://ironkule.github.io/数学错题/数学错题-08_多元函数微分学.html)
 
 [数学错题-09_多元函数积分](https://ironkule.github.io/数学错题/数学错题-09_多元函数积分.html)
+
+[数学错题-10_多元积分基本公式](https://ironkule.github.io/数学错题/数学错题-10_多元积分基本公式.html)
 
 ## 技巧表
 
