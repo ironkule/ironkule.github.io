@@ -28,6 +28,8 @@
 
 [数学笔记-10_多元积分基本公式](https://ironkule.github.io/数学笔记/数学笔记-10_多元积分基本公式.html)
 
+[数学笔记-11_无穷级数](https://ironkule.github.io/数学笔记/数学笔记-11_无穷级数.html)
+
 ## 错题
 
 [数学错题-01_极限-v1.0](https://ironkule.github.io/数学错题/数学错题-01_极限-v1.0.html)
