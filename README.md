@@ -52,6 +52,8 @@
 
 [数学错题-10_多元积分基本公式](https://ironkule.github.io/数学错题/数学错题-10_多元积分基本公式.html)
 
+[数学错题-11_无穷级数](https://ironkule.github.io/数学错题/数学错题-11_无穷级数.html)
+
 ## 技巧表
 
 [常用凑微分法](https://ironkule.github.io/常用凑微分法.html)
