@@ -62,4 +62,8 @@
 
 [常用泰勒公式（拉格朗日余项）](https://ironkule.github.io/常用泰勒公式（拉格朗日余项）.html)
 
+[背诵答案](https://ironkule.github.io/背诵用.html)
+
+[背诵](https://ironkule.github.io/背诵用2.html)
+
 [上述常用打包](https://ironkule.github.io/常用公式.zip)
