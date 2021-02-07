@@ -10,6 +10,8 @@
 
 [02](https://ironkule.github.io/会议01/02.html)
 
+<div style='display: none'>
+
 # 我的考研数学
 
 ## 笔记
@@ -73,3 +75,5 @@
 [背诵](https://ironkule.github.io/背诵用2.html)
 
 [上述常用打包](https://ironkule.github.io/常用公式.zip)
+
+</div>
